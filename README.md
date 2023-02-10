@@ -1,5 +1,6 @@
 ### 🌱 Hi! I'm roy! 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flvalentine6&count_bg=%2340880A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)       ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)   <a href="https://img.shields.io/github/languages/top/lvalentine6/Project_Naeilro" target="_blank"><img src="https://img.shields.io/badge/Backend-blue?style=flat&logo=Color=000000"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flvalentine6&count_bg=%2340880A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)       <a href="https://img.shields.io/github/languages/top/lvalentine6/Project_Naeilro" target="_blank"><img src="https://img.shields.io/badge/Backend-blue?style=flat&logo=Color=000000"/></a>
+
 
 <!--
 **lvalentine6/lvalentine6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +18,6 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvalentine6)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvalentine6&show_icons=true&theme=vue-dark&locale=) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbfgusdl)](https://solved.ac/dbfgusdl/)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvalentine6&repo=IntellJ_algorithm)](https://github.com/anuraghazra/github-readme-stats) -->
 
