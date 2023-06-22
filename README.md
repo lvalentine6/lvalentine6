@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvalentine6&layout=onedark&theme=onedark)  -->
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvalentine6&show_icons=true&theme=onedark&locale=)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvalentine6&show_icons=true&theme=dark&locale=)
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbfgusdl)](https://solved.ac/dbfgusdl)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvalentine6&repo=IntellJ_algorithm)](https://github.com/anuraghazra/github-readme-stats) -->
