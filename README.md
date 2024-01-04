@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">    
 <!-- <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> -->
 
-![aws-certified-devops-engineer-professional (2)](https://github.com/lvalentine6/lvalentine6/assets/77956808/08cca492-fb79-4b5b-b8fe-f9af87fd7b41)
+![aws-certified-devops-engineer-professional](https://github.com/lvalentine6/lvalentine6/assets/77956808/08cca492-fb79-4b5b-b8fe-f9af87fd7b41)
 ![aws-certified-developer-associate](https://github.com/lvalentine6/lvalentine6/assets/77956808/59c33134-6070-456e-b760-58184236fb9b)
 
 
