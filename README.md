@@ -14,8 +14,9 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">    
 <!-- <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> -->
 
-![aws-certified-devops-engineer-professional](https://github.com/lvalentine6/lvalentine6/assets/77956808/08cca492-fb79-4b5b-b8fe-f9af87fd7b41)
-![aws-certified-developer-associate](https://github.com/lvalentine6/lvalentine6/assets/77956808/59c33134-6070-456e-b760-58184236fb9b)
+![aws-certified-devops-engineer-professional (3)](https://github.com/lvalentine6/lvalentine6/assets/77956808/baf10c03-00fe-44d4-835d-4a7f876ce180)
+![aws-certified-developer-associate](https://github.com/lvalentine6/lvalentine6/assets/77956808/45b47b2b-7077-4b03-8d4c-09b87a83f5b4)
+
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=lvalentine6)](https://github.com/ryo-ma/github-profile-trophy) -->
