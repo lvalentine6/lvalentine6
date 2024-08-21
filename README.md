@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvalentine6&layout=compact)   -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbfgusdl)](https://solved.ac/dbfgusdl)    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvalentine6&show_icons=true&theme=github_dark_dimmed&count_private=true)   
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvalentine6&show_icons=true&theme=github_dark_dimmed&count_private=true)   -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvalentine6&repo=IntellJ_algorithm)](https://github.com/anuraghazra/github-readme-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=lvalentine6&theme=holi-theme&hide_border=%EA%B1%B0%EC%A7%93&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
