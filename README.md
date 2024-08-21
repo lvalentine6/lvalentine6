@@ -18,7 +18,6 @@
 ![aws-certified-developer-associate](https://github.com/lvalentine6/lvalentine6/assets/77956808/45b47b2b-7077-4b03-8d4c-09b87a83f5b4)
 
 
-
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=lvalentine6)](https://github.com/ryo-ma/github-profile-trophy) -->
    
 <!-- 
@@ -42,4 +41,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvalentine6&show_icons=true&theme=github_dark_dimmed&count_private=true)   
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvalentine6&repo=IntellJ_algorithm)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=lvalentine6&theme=holi-theme&hide_border=%EA%B1%B0%EC%A7%93&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 </div>
